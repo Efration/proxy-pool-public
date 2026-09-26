@@ -14,7 +14,7 @@ configuration that passed a real protocol-level connectivity test.
 Use it as a subscription URL (raw file):
 
 ```text
-https://raw.githubusercontent.com/efration/Efration/proxy-pool-worker-public/main/proxies.txt
+https://raw.githubusercontent.com/Efration/proxy-pool-worker-public/main/proxies.txt
 ```
 
 Replace `YOUR_USER` and `proxy-pool-public` with the owner and name of
